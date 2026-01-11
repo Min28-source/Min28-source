@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=min28-source" alt="min28-source" /></a> </p>
 
-- 🔭 I’m currently working on [Homodeal](https://github.com/Min28-source/HomoDeal)
-
 - 🌱 I’m currently learning **Next.js and TypeScript**
 
 - 📫 How to reach me **minaalkhajuria2004@gmail.com**
