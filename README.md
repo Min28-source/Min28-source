@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minaal Khajuria</h1>
-<h3 align="center">I am a MERN stack developer from India</h3>
+<h3 align="center">An AI - Powered full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=min28-source&label=Profile%20views&color=0e75b6&style=flat" alt="min28-source" /> </p>
 
